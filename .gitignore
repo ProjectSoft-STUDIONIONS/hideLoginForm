@@ -1,0 +1,12 @@
+/.htaccess
+/node_modules/
+/bower_components/
+/docs/assets/files/
+/test/
+/tests/
+/src/
+/package.json
+/package-lock.json
+/bower.json
+/gruntfile.js
+/index.html
